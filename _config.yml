@@ -1,0 +1,7 @@
+safe:   false
+server: false
+server_port: 4000
+
+source: .
+destination: ./_generated
+#plugins: ./_plugins

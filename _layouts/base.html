@@ -1,0 +1,41 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>{{page.title}} - Le cinéma de Christopher Nolan</title>
+<meta name="description" content="Le cinéma de Christopher Nolan, une analyse tout à fait subjective des films de Christopher Nolan, et d'autres">
+<meta name="author" content="Martin Richard">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+<body class="{{page.class}}" id="{{page.id}}">
+<div id="container">
+	<header>
+    <nav>
+      <ol>
+        <li><a href="./index.html">Home</a></li>
+        {% if page.id == "about" %}<li><a href="./about.html">À propos</a></li>{% endif %}
+      </ol>
+    </nav>
+	</header>
+  <div id="main" role="main">
+    {{content}}
+  </div>
+	<footer>
+  <ul>
+    <li>Par Martin Richard - 2012</li>
+    <li>Licence CC BY-SA-NC</li>
+    <li><a href="about.html">À propos</a></li>
+  </ul>
+	</footer>
+</div> <!--! end of #container -->
+<script src="js/libs/jquery-1.7.1.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
