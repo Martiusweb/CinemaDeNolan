@@ -210,7 +210,11 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 @font-face {
   font-family: "Inception";
-  src: url('../fonts/inception.ttf');
+  src: url('../fonts/inception-webfont.eot');
+  src: url('../fonts/inception-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/inception-webfont.woff') format('woff'),
+       url('../fonts/inception.ttf') format('truetype'),
+       url('../fonts/inception-webfont.svg#InceptionRegular') format('svg');
 }
 
 /* =============================================================================
@@ -369,6 +373,15 @@ body.home {
   margin: 0;
   padding-top: 10px;
 }
+.home div#menu h2 a:link, .home div#menu h2 a:active, .home div#menu h2 a:visited {
+  text-decoration: none;
+  color: #222222;
+  -moz-transition: color 500ms ease;
+}
+.home div#menu h2 a:hover {
+  color: #cccccc !important;
+}
+
 .home div#menu h2:hover {
   padding-bottom: 0;
 }
@@ -384,6 +397,8 @@ body.home {
   height: 0px;
   padding: 0 2px 10px 2px;
   -moz-transition: height 500ms ease-in;
+  -webkit-transition: height 500ms ease-in;
+  -o-transition: height 500ms ease-in;
 }
 .home div#menu article p:first-child {
   margin-top: 10px;

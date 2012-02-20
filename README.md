@@ -1,6 +1,15 @@
-Ma presentation interactive sur les films de Christopher Nolan
+# Le Cinéma de Nolan
 
-# Licences
+In French. The result can be viewed at
+http://martiusweb.github.com/CinemaDeNolan
+
+Ma presentation interactive sur les films de Christopher Nolan.
+
+## Licences
 
 Le code est placé sur licence GNU/GPL v3, le contenu est sous licence Creative
-Commons BY-NC-SA
+Commons BY-NC-SA.
+
+## How to ?
+
+Le site doit être généré avec Jekyll.
