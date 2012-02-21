@@ -290,6 +290,9 @@ div#main {
   padding: 42px 0;
 }
 
+h1 {
+  text-align: center;
+}
 h1, h2, h3 {
   letter-spacing: 0.5em;
   text-transform: uppercase;
@@ -315,7 +318,6 @@ body.home {
 
 .home h1 {
   margin-top: 85px;
-  text-align: center;
   line-height: 1.6em;
   text-shadow: 0 1px #ffffff;
 }
@@ -373,7 +375,8 @@ body.home {
   margin: 0;
   padding-top: 10px;
 }
-.home div#menu h2 a:link, .home div#menu h2 a:active, .home div#menu h2 a:visited {
+.home div#menu h2 a:link, .home div#menu h2 a:active,
+  .home div#menu h2 a:visited {
   text-decoration: none;
   color: #222222;
   -moz-transition: color 500ms ease;
@@ -402,6 +405,52 @@ body.home {
 }
 .home div#menu article p:first-child {
   margin-top: 10px;
+}
+
+/** Bio */
+.timeline {
+  width: 100%;
+  padding-top: 3px;
+  overflow: hidden;
+}
+.timeline .hr {
+  margin: 0;
+  border: 3px #cccccc solid;
+}
+.timeline > ol {
+  margin: 0;
+  padding: 0 0 0 40px;
+  list-style: none;
+  position: relative;
+  bottom: 11px;
+  display: table;
+  width: 3300px;
+}
+.timeline > ol > li {
+  width: 300px;
+  display: table-cell;
+}
+.timeline > ol > li > a {
+  display: block;
+  width: 10px;
+  height: 10px;
+  line-height: 0px;
+  border-radius: 8px;
+  text-decoration: none;
+  background-color: rgba(255, 0, 0, 1);
+  border: 3px white solid;
+  -moz-transition: background-color 500ms ease;
+}
+.timeline > ol > li > a:hover {
+  background-color: rgba(0, 0, 255, 1);
+}
+.timeline h2 {
+  font-family: "Gotham Black";
+  letter-spacing: normal;
+  margin: 0;
+}
+.timeline p {
+  margin: 0;
 }
 
 /* =============================================================================
