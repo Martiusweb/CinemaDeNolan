@@ -209,6 +209,11 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 
 @font-face {
+  font-family: "Gotham Thin";
+  src: url('../fonts/Gotham/Gotham-Thin.ttf');
+}
+
+@font-face {
   font-family: "Inception";
   src: url('../fonts/inception-webfont.eot');
   src: url('../fonts/inception-webfont.eot?#iefix') format('embedded-opentype'),
@@ -230,7 +235,7 @@ body {
 header, footer {
   position: fixed;
   width: 100%;
-  overflow: none;
+  overflow: hidden;
   background: -moz-linear-gradient(top, #3D4850 3%, #313d45 4%, #232B30 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(3%,#3D4850), color-stop(4%,#313d45), color-stop(100%,#232B30));
   box-shadow: 0 0 10px #333333;
@@ -408,29 +413,28 @@ body.home {
 }
 
 /** Bio */
-.timeline {
-  width: 100%;
+#timeline {
   padding-top: 3px;
+  width: 100%;
   overflow: hidden;
 }
-.timeline .hr {
+#timeline .hr {
   margin: 0;
   border: 3px #cccccc solid;
 }
-.timeline > ol {
+#timeline > ol {
   margin: 0;
   padding: 0 0 0 40px;
   list-style: none;
   position: relative;
   bottom: 11px;
   display: table;
-  width: 3300px;
 }
-.timeline > ol > li {
-  width: 300px;
+#timeline > ol > li {
+/*  width: 300px; /* This value is overriden by the Js property */
   display: table-cell;
 }
-.timeline > ol > li > a {
+#timeline > ol > li > a {
   display: block;
   width: 10px;
   height: 10px;
@@ -441,16 +445,79 @@ body.home {
   border: 3px white solid;
   -moz-transition: background-color 500ms ease;
 }
-.timeline > ol > li > a:hover {
+#timeline > ol > li > a:hover {
   background-color: rgba(0, 0, 255, 1);
 }
-.timeline h2 {
+#timeline h2 {
   font-family: "Gotham Black";
   letter-spacing: normal;
   margin: 0;
 }
-.timeline p {
+#timeline p {
   margin: 0;
+}
+
+#bio nav a.prev, #bio nav a.next {
+  text-decoration: none;
+  color: red;
+  background-color: rgba(100, 100, 100, 0.2);
+  font-size: 80px;
+  font-family: "Gotham Thin";
+  display: inline-block;
+  text-align: center;
+  line-height: 90px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  position: fixed;
+  margin: 40px 20px 0 20px;
+  top: 50%;
+  z-index: 100;
+  -moz-transition: background-color 200ms ease-in;
+  -webkit-transition: background-color 200ms ease-in;
+  transition: background-color 200ms ease-in;
+}
+#bio nav a.next {
+  right: 0;
+}
+#bio nav a.prev:hover, #bio nav a.next:hover {
+  background-color: rgba(100, 100, 100, 0.5);
+}
+
+#scene {
+  width: 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -wekit-box-sizing: border-box;
+  overflow: hidden;
+  padding: 6% 150px;
+}
+
+#scene > div {
+  width: 100000px;
+}
+
+#scene section {
+  display: table;
+  float: left;
+}
+#scene section aside, #scene section article {
+  display: table-cell;
+}
+#scene section aside {
+  vertical-align: middle;
+  width: 40%;
+  text-align: right;
+  padding: 0 15px;
+}
+
+/** Parallax effect styles (dynamically applied) */
+.parallax_moving {
+  position: relative;
+  right: 0px;
+  -moz-transition-duration: 1500ms;
+  -moz-transition-property: right;
+  -moz-transition-timing-function: ease;
 }
 
 /* =============================================================================
