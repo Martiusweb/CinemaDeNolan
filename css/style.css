@@ -490,7 +490,10 @@ body.home {
   -moz-box-sizing: border-box;
   -wekit-box-sizing: border-box;
   overflow: hidden;
-  padding: 6% 150px;
+  height: 410px;
+  position: absolute;
+  top: 50%;
+  margin-top: -155px;
 }
 
 #scene > div {
@@ -500,6 +503,10 @@ body.home {
 #scene section {
   display: table;
   float: left;
+  padding: 0 150px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -wekit-box-sizing: border-box;
 }
 #scene section aside, #scene section article {
   display: table-cell;
