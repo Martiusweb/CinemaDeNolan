@@ -318,7 +318,7 @@ header li:before {
 
 /** Home */
 body.home {
-  background: url('../images/inception-background.jpg') no-repeat center -10px fixed;
+  background: url('../images/inception-background.jpg') no-repeat center center fixed;
 }
 
 .home h1 {

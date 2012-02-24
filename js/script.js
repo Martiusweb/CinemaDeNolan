@@ -39,23 +39,38 @@ $.msw.Timeline = function(eltId, args) {
   this.list = $(this.elt.children(args.listSelector)[0]);
   this.items = $.map(this.list.children(), function(e) { return $(e); });
   
-  this.itemWidth = args.itemWidth;
+  if(typeof(args.itemWidth) !== "function") {
+    this.itemWidth = function() { return args.itemWidth; };
+  }
+  else
+    this.itemWidth = args.itemWidth;
+
   this.parallax = new $.msw.Parallax(this.list, args);
 
   this.position = 0;
 
   // Set timeline styles and size
   this.list.addClass("parallax_moving");
-  this.list.css("width", (this.items.length * this.itemWidth) + "px");
+  this.setWidth();
+
+  if(args["autoResize"]) {
+    $(window).resize(function() {
+      self.setWidth();
+    });
+  }
+};
+
+$.msw.Timeline.prototype.setWidth = function() {
+  this.list.css("width", (this.items.length * this.itemWidth()) + "px");
   for(var i = 0; i < this.items.length; ++i) {
-    this.items[i].css("width", this.itemWidth + "px");
+    this.items[i].css("width", this.itemWidth() + "px");
   }
 };
 
 $.msw.Timeline.prototype.moveTo = function(pos) {
   if(pos < 0 || this.items.length <= pos) // position is out of bounds
     return;
-  this.parallax.commit(pos * this.itemWidth);
+  this.parallax.commit(pos * this.itemWidth());
   this.position = pos;
 };
 
@@ -92,16 +107,17 @@ Nolan.prototype.bio = function() {
 
   this.timeline = new $.msw.Timeline("#timeline", {
     listSelector: "ol",
-    itemWidth: 300,
-    velocity: 200, // px/s
+    itemWidth: 350,
+/*    velocity: 200, // px/s */
   });
 
   // Position scene elements
   var width = parseInt($("#scene").innerWidth());
   this.scene = new $.msw.Timeline("#scene", {
     listSelector: "div",
-    itemWidth: width,
-    velocity: 800
+    itemWidth: function() { return parseInt($("#scene").innerWidth()); },
+    autoResize: true,
+/*    velocity: 800, */
   });
 
   // Enable previous/next buttons
