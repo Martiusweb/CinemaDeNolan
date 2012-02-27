@@ -45,6 +45,11 @@ $.msw.Timeline = function(eltId, args) {
   else
     this.itemWidth = args.itemWidth;
 
+  if(typeof(args.afterMoveTo) !== "function")
+    this.afterMoveTo = function() {};
+  else
+    this.afterMoveTo = args.afterMoveTo;
+
   this.parallax = new $.msw.Parallax(this.list, args);
 
   this.position = 0;
@@ -72,6 +77,7 @@ $.msw.Timeline.prototype.moveTo = function(pos) {
     return;
   this.parallax.commit(pos * this.itemWidth());
   this.position = pos;
+  this.afterMoveTo();
 };
 
 $.msw.Timeline.prototype.next = function() {
@@ -122,7 +128,9 @@ Nolan.prototype.bio = function() {
 
   // Enable previous/next buttons
   $(".prev").each(function() {
-    $(this).click(function() {
+    var t = $(this);
+    t.hide();
+    t.click(function() {
       self.timeline.previous();
       self.scene.previous();
     });
@@ -136,9 +144,14 @@ Nolan.prototype.bio = function() {
 
   // direct links in timeline
   var directAccess = $("#timeline a");
+  var slideIndex = 0;
   for(var i = 0; i < directAccess.length; ++i) {
     var link = directAccess[i].href.slice(directAccess[i].href.indexOf('#'));
-    this.indexOf[link] = i;
+    if(typeof(this.indexOf[link]) === "undefined") {
+    console.log(this.indexOf[link], directAccess[i])
+      this.indexOf[link] = slideIndex;
+      ++slideIndex;
+    }
     $(directAccess[i]).click(function(e) {
       var index = self.indexOf[this.href.slice(this.href.indexOf('#'))];
       self.timeline.moveTo(index);

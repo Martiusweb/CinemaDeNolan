@@ -444,9 +444,15 @@ body.home {
   background-color: rgba(255, 0, 0, 1);
   border: 3px white solid;
   -moz-transition: background-color 500ms ease;
+  -webkit-transition: background-color 500ms ease;
+  transition: background-color 500ms ease;
 }
 #timeline > ol > li > a:hover {
   background-color: rgba(0, 0, 255, 1);
+}
+#timeline > ol > li h2 > a {
+  color: #000000;
+  text-decoration: none;
 }
 #timeline h2 {
   font-family: "Gotham Black";
@@ -499,14 +505,19 @@ body.home {
 #scene > div {
   width: 100000px;
 }
-
-#scene section {
-  display: table;
+#scene > div > div {
   float: left;
   padding: 0 150px;
-  box-sizing: border-box;
   -moz-box-sizing: border-box;
-  -wekit-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#scene section {
+  /**
+   * Chrome 17 : box-sizing: border-box and display: table doesn't wotk
+   * together (bug #103543), I've to add a blank parent div...
+   */
+  display: table;
 }
 #scene section aside, #scene section article {
   display: table-cell;
@@ -522,9 +533,9 @@ body.home {
 .parallax_moving {
   position: relative;
   right: 0px;
-  -moz-transition-duration: 1500ms;
-  -moz-transition-property: right;
-  -moz-transition-timing-function: ease;
+  -moz-transition: right 1500ms ease;
+  -webkit-transition: right 1500ms ease;
+  transition: right 1500ms ease;
 }
 
 /* =============================================================================
