@@ -114,7 +114,28 @@ Nolan.prototype.bio = function() {
   this.timeline = new $.msw.Timeline("#timeline", {
     listSelector: "ol",
     itemWidth: 350,
-/*    velocity: 200, // px/s */
+/*    velocity: 200, //)px/s */
+    afterMoveTo: function() { // bound to this.timeline
+      // Last element
+      if(this.position == this.items.length-1) {
+        $('.next').each(function() {
+          $(this).hide();
+        });
+      }
+      else if(this.position == 0) {
+        $('.prev').each(function() {
+          $(this).hide();
+        });
+      }
+      else {
+        $('.prev').each(function() {
+          $(this).show();
+        });
+        $('.next').each(function() {
+          $(this).show();
+        });
+      }
+    },
   });
 
   // Position scene elements
