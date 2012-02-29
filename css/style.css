@@ -29,7 +29,7 @@ audio[controls], canvas, video { display: inline-block; *display: inline; *zoom:
  *    www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
  */
 
-html { font-size: 100%; overflow-y: scroll; -webkit-overflow-scrolling: touch; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+html { font-size: 100%; /*overflow-y: scroll;*/ -webkit-overflow-scrolling: touch; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
 body { margin: 0; font-size: 13px; line-height: 1.231; }
 
@@ -234,6 +234,7 @@ body {
 
 header, footer {
   position: fixed;
+  z-index: 100;
   width: 100%;
   overflow: hidden;
   background: -moz-linear-gradient(top, #3D4850 3%, #313d45 4%, #232B30 100%);
@@ -465,29 +466,47 @@ body.home {
 
 #bio nav a.prev, #bio nav a.next {
   text-decoration: none;
-  color: red;
   background-color: rgba(100, 100, 100, 0.2);
-  font-size: 80px;
-  font-family: "Gotham Thin";
-  display: inline-block;
   text-align: center;
-  line-height: 90px;
   width: 80px;
   height: 80px;
   border-radius: 50px;
   position: fixed;
   margin: 40px 20px 0 20px;
   top: 50%;
-  z-index: 100;
+  z-index: 90;
+  outline: none;
   -moz-transition: background-color 200ms ease-in;
   -webkit-transition: background-color 200ms ease-in;
   transition: background-color 200ms ease-in;
+  color: red;
+  font-size: 80px;
 }
 #bio nav a.next {
   right: 0;
 }
+#bio nav a.prev span {
+  right: 5px;
+}
+#bio nav a.next span {
+  background-position: -42px 0;
+}
 #bio nav a.prev:hover, #bio nav a.next:hover {
   background-color: rgba(100, 100, 100, 0.5);
+}
+#bio nav a span {
+  /**
+   * I can't get the same rendering using characters < and >, probably because
+   * of the different rendering engines. I've to use an image.
+   */
+  background-image: url('../images/ltgt.png');
+  background-repeat: no-repeat;
+  width: 42px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -21px;
+  margin-left: -21px;
 }
 
 #scene {
@@ -495,7 +514,7 @@ body.home {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -wekit-box-sizing: border-box;
-  overflow: hidden;
+  overflow-x: hidden;
   height: 410px;
   position: absolute;
   top: 50%;
@@ -527,12 +546,16 @@ body.home {
   width: 40%;
   text-align: right;
   padding: 0 15px;
+  height: 410px;
+  overflow: hidden;
 }
 
 /** Parallax effect styles (dynamically applied) */
-.parallax_moving {
+.parallax {
   position: relative;
   right: 0px;
+}
+.parallax_moving {
   -moz-transition: right 1500ms ease;
   -webkit-transition: right 1500ms ease;
   transition: right 1500ms ease;
