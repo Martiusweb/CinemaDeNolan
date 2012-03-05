@@ -17,6 +17,8 @@ $.msw.Parallax = function(elt, args) {
 //*/
   this.position = elt.css("right");
   this.element = elt;
+
+  this.element.addClass("parallax");
 };
 /*
 var transitionPropertyPrefix = Modernizr.prefixed("transition");
@@ -26,6 +28,13 @@ $.msw.Parallax.prototype.commit = function(newPos) {
   var duration = Math.round(1000 * (Math.abs(this.position - newPos)) / this.velocity);
   this.element.css(transitionPropertyPrefix + "Duration", duration + 'ms');
   //*/
+  this.element.addClass("parallax_moving");
+  this.element.css('right', newPos + 'px');
+  this.position = newPos;
+};
+
+$.msw.Parallax.prototype.commitWithoutAnimation = function(newPos) {
+  this.element.removeClass("parallax_moving");
   this.element.css('right', newPos + 'px');
   this.position = newPos;
 };
@@ -54,13 +63,13 @@ $.msw.Timeline = function(eltId, args) {
 
   this.position = 0;
 
-  // Set timeline styles and size
-  this.list.addClass("parallax_moving");
+  // Set timeline size
   this.setWidth();
 
   if(args["autoResize"]) {
     $(window).resize(function() {
       self.setWidth();
+      self.parallax.commitWithoutAnimation(self.position * self.itemWidth());
     });
   }
 };
@@ -123,7 +132,7 @@ var Nolan = function() {
 };
 
 Nolan.prototype.home = function() {
-  // Make functions detection and stuff like that
+  // TODO Make functions detection and stuff like that
   // - transitions : required
 };
 
@@ -191,7 +200,6 @@ Nolan.prototype.bio = function() {
   for(var i = 0; i < directAccess.length; ++i) {
     var link = directAccess[i].href.slice(directAccess[i].href.indexOf('#'));
     if(typeof(this.indexOf[link]) === "undefined") {
-    console.log(this.indexOf[link], directAccess[i])
       this.indexOf[link] = slideIndex;
       ++slideIndex;
     }
