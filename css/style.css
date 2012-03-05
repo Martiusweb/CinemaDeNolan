@@ -538,6 +538,48 @@ body.home {
   transition: right 1500ms ease;
 }
 
+/** Cine */
+.cine section {
+  overflow: none;
+}
+.cine aside {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 0.9em;
+}
+.cine aside > ol {
+  list-style: none;
+  padding: 0;
+}
+.cine aside > ol > li {
+  background-color: #444444;
+  box-shadow: 0px 0px 3px #333333;
+  color: #F5F5F5;
+  border-radius: 5px;
+  margin: 1em 0;
+  padding: 5px;
+  
+}
+.cine aside > ol > li h3 {
+  letter-spacing: 0;
+  margin: 0;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+}
+
+/** Sidebar */
+body.rightbar article {
+  width: 98%;
+  margin: 0 auto;
+}
+body.rightbar article > section {
+  width: 74.359%;
+  float: left;
+}
+body.rightbar article > aside {
+  float: left;
+  width: 23.0769%;
+  margin-left: 2.5641%;
+}
+
 /* =============================================================================
    Non-semantic helper classes
    Please define your styles before this section.

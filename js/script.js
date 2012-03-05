@@ -89,6 +89,28 @@ $.msw.Timeline.prototype.previous = function() {
 };
 
 /**
+ * Scenario : allows to create progressive animations
+ * TODO
+ */
+$.msw.Scenario = function(args) {
+	/**
+	 * For each step we trigger an animation script.
+	 */
+	this.step = [];
+	/**
+	 * Comments are displayed while animating each step
+	 */
+	this.steps = $(args.comments);
+/*
+	var step = function() {
+		this.delayComment(10); // attendre 10ms avant d'afficher le commentaire
+		this.noComment(); // pas de commentaire pour cette étape
+	};
+*/
+};
+
+
+/**
  * Bootstrap
  */
 var Nolan = function() {

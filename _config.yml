@@ -4,4 +4,5 @@ server_port: 4000
 
 source: .
 destination: ./_generated
+#exclude: [Makefile, css/less, server]
 #plugins: ./_plugins
