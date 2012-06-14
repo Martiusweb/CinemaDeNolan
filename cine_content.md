@@ -75,3 +75,116 @@ qu'intérieur.
 En systhèse, il choisit ce qu'il est et ce en quoi il croit au point de devenir
 une expression incarnée du concept de sollipsisme. En cela, les films de
 Christopher Nolan s'intègrent dans le genre cinémotographique néo-noir.
+
+# 
+
+Les principaux traits qui caractèrisent les films de Christopher Nolan peuvent
+être ainsi résumés :
+
+  * Une construction de la *psychologie des personnages* (pardon pour cette
+    formulation abusive) commune,
+
+  * Une prise de liberté entre le temps de l'histoire et le temps de la
+    narration
+
+  * La construction d'une histoire autour du concept de sollipsisme
+
+  * La narration fracturée
+
+(Bon cette petite partie est peut-être pas à garder sous cette forme)
+
+Regardons d'un peu plus prêt sa filmographie. J'ai choisi l'ordre
+anti-chronologique, car certaines idées se sont affirmées progressivement, et
+c'est plus simple de les exposer directement.
+
+# Inception
+
+C'est intéressant de commencer par Inception, car il regroupe la plupart des
+traits caractéristiques des films de Nolan, de manière assez explicite. Par
+ailleurs, c'est le premier film qu'il réalise sans se baser sur un travail
+existant (oeuvre, scénario co-écrit avec son frère, etc).
+
+Inception lie efficacement les thématiques récurrentes du cinéma de Nolan autour
+du personnage de Dom Cobb (Leonardo DiCaprio) est la synthèse de l'ensemble
+des personnages principaux de ses précédents films : à la limite d'un
+décrochage émotionnel et psychologique, il s'accroche définitivement à l'idée
+que ce en qui il croit est toujours vrai et possible dans le monde dans lequel
+il évolue.
+
+À l'origine pensé comme un thriller plus proche du film d'épouvante, Inception
+est devenu une interprétation originale d'un genre Hollywoodien classique : le
+*Heist* (le film de Braquage). Il s'articule autour de bases scénaristiques
+imposées par le genre :
+
+  * *One last job* : le personnage qui dirige l'équipe des braqueurs se voit
+    proposer une dernière mission extrémement dangereuse, une sorte de coup de
+    poker qui déterminera le reste de ces jours (c'est quitte ou double).
+
+  * L'exposition : c'est un mode de discours (au même titre que la narration,
+    la description et l'argumentation) qui occupe souvent la place principale
+    du Heist, l'exposition est toute la phase de préparation et d'explication
+    du mode opératoire du braquage. Dans cette phase, l'équipe découvre
+    progressivement les étapes à parcourir jusqu'à attendre le but, puis
+    comment s'échapper du coffre fort. L'essentiel du déroulement d'Inception
+    est une exposition : le spectateur découvre à la fois les règles qui régissent la
+    *science des rêves* dans lequel évoluent les protagonistes, tandis que
+    ceux-ci découvrent le déroulement de l'opération alors même qu'ils la
+    réalisent.
+    Cette exposition permanente est possible notamment parce que le film
+    présente alternativement plusieurs moments supposés se dérouler
+    simultanément (et s'influençant mutuellement).
+
+Lors de sa sortie en 2010, Inception a marqué par sa fin ouverte. Si
+généralement le spectateur restera intrigué par le sort du personnage principal
+(rêve-t-il toujours ? A-t-il réussi à sa mission ?), le véritable enjeu du film
+ne se situe certainement pas là.
+
+En réalité, Christopher Nolan apporte une conclusion satisfaisante quand au
+sort des personnages : Dom Cobb abandonne son *objet totem*, il choisit sa
+réalité et s'y abandonnera, comme le fait Leonard Shelby dans Memento. Alors
+que ce dernier poursuivra dans une voie qui le poussera à l'auto-destruction,
+Dom Cobb choisit lui de se pardonner et d'aller de l'avant. Autrement dit,
+compte tenu des enjeux du film, on peut suggérer que la *Happy End* est bien
+présente.
+
+ !nb: En fait, là, c'est plutôt supposé être dans la 3e partie...
+
+Alors donc, quel est l'enjeu du film ? Pour bien le comprendre, il faut faire
+un parallèle avec le film *Le prestige*. Christopher Nolan présente, expose et
+fait utiliser à ses personnages des procédés de manipulation complexes,
+impliquant de piéger la victime en utilisant tous les artifices possibles (y
+compris déformer la réalité) tant qu'elle ne s'en rend pas compte et que
+l'illusion fonctionne. Mais ces procédés sont également ceux qu'applique le
+réalisateur, directement sur le spectateur.
+
+Dans un premier temps, on présente les mécanismes d'illusion (créer le rêve,
+tromper le rêveur) et le rôle des personnages qui vont participer à la mise en
+scène (les noms des personnages sont d'ailleurs liés). Alors qu'ils se
+préparent, les personnages s'entraînent à se "réveiller" en écoutant la chanson
+d'Edith Piaf, suggérant qu'ils doivent se préparer à "remonter" vers la
+réalité (comprendre: il y en a une).
+
+L'emboîtement des trois moments de narration (le rêve, dans un rêve, dans un
+rêve) interdit au spectateur de dérouler le fil logique de la narration et le
+rend incapable de débusquer les incohérences et situations impossibles. Il est
+donc vulnerable aux artifices du cinéma comme la victime de l'équipe de Cobb
+aura du mal à détecter les situations impossibles qui se produisent dans son
+rêve.
+
+Le spectateur, pris au piège, ne peux pas réaliser immédiatement ce qu'il vient
+de se produire...
+
+Après le plan final, l'écran vire aussitôt au noir, c'est *la décharge* (la
+douche froide pour le spectateur). Puis apparait directement le mot
+"Inception", tandis qu'on entend le thème principal du film (une version
+ralentie de la chanson de Piaf utilisée par les personnages). Le spectateur
+quitte la salle. Maintenant que le film est terminé, quelque chose à changé.
+Confortablement installé dans son fauteuil pendant deux heures et demi,
+l'équipe du film a implanté une simple idée dans son esprit : le spectateur
+cherche mainenant la faille, celle qui lui permettra de connaître *la fin*,
+convaincu qu'il y a une explication définitive à l'épopée des personnages.
+
+Le spectateur concentré sur la fiction et le devenir des personnages ne réalise
+pas qu'il a subi les mêmes étapes que la victime supposée de l'histoire, et
+qu'il est en fait le principal sujet de l'expérience Inception, pendant tout le
+film.
