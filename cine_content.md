@@ -188,3 +188,91 @@ Le spectateur concentré sur la fiction et le devenir des personnages ne réalis
 pas qu'il a subi les mêmes étapes que la victime supposée de l'histoire, et
 qu'il est en fait le principal sujet de l'expérience Inception, pendant tout le
 film.
+
+# The Dark Knight
+
+*The Dark Knight* est la suite directe de Batman Begins, le *reboot* de la
+franchise Batman par les studios Warner après l'échec critique de *Batman
+& Robin*.
+
+Le succès critique et financier de Batman Begins permet à Christopher Nolan de
+développer et réaliser une production à plus grande échelle que ses précédents
+films. D'une manière générale, Nolan dispose de plus de moyens (l'un des
+plus gros budgets alloués à un film jusqu'à présent), de la confiance des
+studios Warner et DC Comics (propriétaires et exploitants de la licence Batman)
+et d'une plus grande liberté d'adaptation. On remarque par exemple qu'il est le
+premier film de la franchise *Batman* qui ne comporte pas le nom du super-héros
+dans le titre.
+
+Le résultat est un film plus lisible dans son ensemble, plus imaginatif mais
+aussi plus éloigné de l'esprit *Comics* d'origine. Christopher Nolan place le
+mythe du Batman dans un univers qui doit sembler au spectateur plus proche de
+la réalité. Les scènes tournées en environnement réel sont privilégiées face au
+studio, l'usage d'effets spéciaux en image de synthèse est limité, le film
+comporte de nombreuses scènes de jour, ce qui est, en fait, remarquable pour un
+épisode de *Batman*.
+
+Ainsi, The Dark Knight s'éloigne un peu plus du film de super-héros, et se
+rapproche des thrillers de bandits-policiers. La représentation de la dynamique
+de la ville est inspirée du travail de Michael Mann, dans Heat notamment.
+
+Un trait remarquable de The Dark Knight est la construction du scénario autour
+d'un discours politique, rarement présent dans les films de super-héros...
+à l'exception bien sûr du pratiquement inévitable patriotisme.
+
+Les productions Hollywoodiennes ont traditionnellement des liens avec
+l'actualité politique des États-Unis. Les scénaristes intègrent ou s'inspirent
+souvent des grands faits d'actualité et des débats de société en cours. Les
+institutions s'intéressent également aux productions de divertissement. Le
+département de la défense, par exemple, offre soutient logistique et technique
+aux films qui véhiculent une image positive de l'armée.
+
+The Dark Knight développe une intrigue reflettant la situation des États-Unis
+après les attentats du 11 septembre : la guerre d'Irak est toujours en cours et
+l'administration Bush en finit avec la *War On Terror*, qui a mis en débat les
+limites morales admises par la société, tandis qu'elle lutte contre une force
+chaotique, anarchique et sans traits idéologiques forts. L'ennemi terroriste
+des États-Unis est bien plus difficile à identifier et représenter que le vieil
+ennemi communiste.
+
+Le film va avoir un impact intéressant sur le débat politique aux États-Unis :
+les personnages et situations développées vont servir (et servent toujours)
+de supports, d'exemples ou de métaphores idéologiques dans les débats. On se
+souvient notamment de la célèbre photo de Barack Obama grimmé en Jocker :
+http://resources1.news.com.au/images/2009/08/05/1225758/360881-obama-the-joker.jpg
+
+Le Joker est la figure du concept flou du "crime" que combat Batman : un
+monstre terrible, sans véritable visage, qui rappelle franchement l'ennemi
+terroriste combattu par des méthodes totalement discutables.
+
+Dans le film, Batman va tabasser (torturer) le Joker et obtenir des
+informations inéxactes qui méneront à une issue tragique, tandis que la fin de
+cet épisode délivre un message ambigü : Batman va vaincre le Joker, mais aura
+du usre de violence et baffouer les libertés personnelles des citoyens de
+Gotham qu'il espionnera. Finalement, le seul moyen pour Batman de gagner cette
+bataille contre le crime et la corruption sera de se banir de Gotham.
+
+Cette ambiguité est stratégique : une production de ce type, dont les enjeux
+financiers sont immenses ne peut pas se permettre de rompre avec une partie de
+son audience. Il faut donc veiller à ne pas polariser le discours autour du
+film et surtout ne pas exciter les groupes d'intérêts, qui jouent un rôle de
+premier plan dans la vie politique des États-Unis. Les studios apprennent donc
+à ménager la chèvre et le chou et se basent sur des scénarios délibérément
+ambivalants. La technique est finalement assez simple : le scénario introduit
+deux symboles représentant des principes moraux opposés, et va les réconcilier,
+au moins temporairement pour qu'ils puissent vaincre leur ennemi commun.
+
+L'un de mes exemples préféré est certainement *The Bourne Ultimatum*, cette
+production des studios Universal érige en héros un ancien tueur à gages de la
+CIA, auteur de plusieurs assassinats politiques, il va s'associer à la presse
+pour révéler la corruption et les dérives qui existent au sein de l'agence
+gouvernementale.
+
+Quand l'assemblage est réussi, on apporte au film un côté authentique et
+profond, puisqu'on discute de grands sujets et qu'on met des aspects moraux en
+débat. Finalement, le film reste en "zone grise" mais a le mérite de faire
+parler de lui...
+
+# The Prestige
+
+TO BE DONE
