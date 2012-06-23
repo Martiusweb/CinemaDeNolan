@@ -275,4 +275,51 @@ parler de lui...
 
 # The Prestige
 
-TO BE DONE
+Même si le prestige est l'adaptation d'un roman de Christopher Priest
+(éponyme), l'intrigue du film est ingénieusement mise en abyme avec le travail
+de réalisateur de Nolan : la volonter de créer une oeuvre originale et riche
+tout en divertissant ses spectateurs.
+
+Le cinéma fonctionne comme la magie (ou plus précisément, l'illusionisme) : le
+réalisateur, comme le prestidigitateur, cherche à obtenir l'adhésion du public
+à une illusion de la réalité et finalement, à déclencher des réactions émotives
+à son action.
+
+The Prestige consiste en un grand tour de magie : il montre les coulisses des
+spectacles de magie, comment une illusion est fabriquée, tandis qu'il en opère
+un sous nos yeux. Au travers de ses personnages, Nolan montre comment il
+conçoit et construit ses films : tous les éléments qui constituent l'illusion
+doivent rester valides, Nolan passe beaucoup de temps à expliquer,
+contextualiser et surtout à lier tous les composants de l'histoire de manière
+à ce que le spectateur puisse remonter le fil de l'intrigue à chaque twist
+(retournement inattendu). Pour que "ça" fonctionne (le tour de magie, le film),
+le spectateur va devoir faire l'effort de tout remettre dans l'ordre, pour
+apprecier la surprise du tour (le prestige). Si le spectateur quitte les rails
+de la narration, il va avoir l'occasion de se poser des questions qui risquent
+d'anéantir le film : Quand dort Batman ? Comment un homme sans mémoire peut-il
+simplement vivre ? Les situations inédites présentées dans les films comportent
+toujours de nombreuses incohérences et "impossiblités". Pour que le film
+fonctionne, il faut parvenir à capter l'attention du spectateur avant qu'il ne
+questionne trop la fiction.
+
+Ça n'est pas très clair ? Rappelez-vous du film The Sixth Sense, et
+demandez-vous comment Bruce Willis a pu effectuer des actions quotidiennes
+simples (se préparer à manger, dormir dans le même lit que sa femme, passer un
+coup de téléphone) dans sa condition. C'est tout simplement impossible, le film
+ne cherche même pas à apporter des réponses à toutes ces questions : il va au
+contraire jouer avec ces questions pour maintenir l'illusion (si vous prenez le
+temps de revoir le film, regardez bien ce qu'il se passe lorsqu'il dine au
+restaurant avec sa femme, pour leur anniversaire de mariage).
+
+Pour en revenir à Nolan, pour lui, le film est surtout une construction
+cinématographique, et son talent (mais aussi ce qui fait qu'il a de nombreux
+détracteurs) est de parvenir à inhiber notre instinct et notre esprit logique
+pour ne nous faire poser que les questions qu'il souhaite qu'on se pose. Le
+film n'est pas un reflet de la réalité, mais bien une représentation biaisée,
+piègée par le réalisateur.
+
+Pour parvenir à maintenir le spectateur occupé à se poser les questions qu'il
+souhaite, Nolan utilise généralement des effets émotionnels "basiques", et
+développer des histoires autour d'enjeux simples et universels. Un film de
+Nolan ne peut donc généralement pas, par exemple, se passer d'une intrigue
+amoureuse.
