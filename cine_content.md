@@ -346,14 +346,21 @@ ont été éclipsés par les films d'horreur dans les années 70. Les années 90
 marquent le tournant vers le polar urbain et la science-fiction. Ces mutations
 sont issues du travail des grands réalisateurs Hollywoodiens (Steven Spielberg,
 George Lucas, Stanley Kubrick, Ridley Scott, ...) qui ont apporté un regard
-noble à des genres souvent moqués. On peut prendre l'exemple intéressant de
-l'*Heroic Fantasy*, qui a obtenu ses lettres de noblesse grâce à Peter Jackson
-et sa trilogie *Lord Of The Rings* (11 Academy Awards).
+noble à des genres souvent moqués. L'*Heroic Fantasy*, a obtenu ses lettres de
+noblesse grâce à Peter Jackson et sa trilogie *Lord Of The Rings* (11 Academy
+Awards). la *cyber-culture*, les jeux vidéo et les comics sont devenus des
+sources d'inspiration importantes à Hollywood depuis Matrix. Les super-héros
+ont mis du temps à trouver leur place. Le premier essai est certainement
+*Superman* en 1978, Il aura fallu attendre 11 ans pour que Tim Burton adapte
+*Batman*, en 1989. Alors que depuis 10 ans les adaptations de commics font
+presque chaque été recette dans nos cinémas, *Batman Begins* va, avant *The
+Dark Knight* contribuer à montrer que ce cinéma de divertissement peut
+également être intelligent.
 
-Contrairement à ses trois premiers films, Batman Begins est une production qui
-répond au critères du Blockbuster: c'est une production à grande échelle,
-impliquant de gros moyens techniques et publicitaires pour capter un large
-panel de spectateurs.
+Contrairement aux trois trois premiers films de Nolan, Batman Begins est une
+production qui répond au critères du Blockbuster: c'est une production à grande
+échelle, impliquant de gros moyens techniques et publicitaires pour capter un
+large panel de spectateurs.
 
 Il fallait donc clairement trancher avec l'univers cinématrographique qu'avait
 développé Tim Burton dans *Batman* et *Batman Returns*. Alors que les films de
