@@ -400,3 +400,78 @@ a pardonner Borden, qu'il tient pour responsable de la mort de sa femme. Dans
 *Memento* Leonard Shelby ne vit que pour venger sa femme. Au contraire, Dom
 Cobb dnas *Inception* et Bruce Wayne dans *Batman* vont prendre la décision de
 pardonner, et donc accéder à une sorte de "paix intérieure".
+
+# Insomnia
+
+Insomnia est le remake hollywoodien d'un film norvégien. C'est le premier film
+de Christopher Nolan produit par un grand studio. Les studios confient
+couramment des projets de cette nature à des jeunes réalisateurs : le matériau
+de base est connu pour fonctionner commercialement et les risques sur un tel
+projet sont limités. Un succès offre souvent au réalisateur l'opportunité
+d'avoir une véritable place dans le cercle des réalisateurs d'Hollywood.
+
+C'estun projet produit par Steven Soderberg, qui a proposé de confier la
+réalisation à Nolan après avoir vu son travail sur Memento. Le film est dans
+son ensemble un polar conventionnel, suivant le scénario et la construction du
+film original dans une version plus édulcorée (comme souvent dans les
+adaptations hollywoodiennes). 
+
+Malgré tout, le film s'inscrit dans l'ensemble du travail de Nolan par
+plusieurs aspects. C'est surtout à la forme qu'il faut s'intéresser. Le
+réalisateur cherche à concentrer l'attention du spectateur sur le personnage de
+Dormer, jusqu'à ce qu'il perçoive les émotions et sensations phyisiques du
+personnage, sans pour autant s'identifier à lui. Le personnage va
+progressivement douter de la réalité de ce qu'il voit et vit, subissant l'effet
+du jour permanent et de ses insomnies. Grâce à des prises de vue centrées sur
+Al Pacino, des effets de lumières et un montage original, Nolan parvient
+à réaliser l'effet souhaité sur le spectateur, qui finit par ressentir le
+sentiment de culpabilité et la sensation de fatigue de Dormer sans casser la
+vitalité du film, et donc, sans ennuyer le spectateur.
+
+# Memento
+
+Imaginé et co-écrit par Jonathan Nolan, Memento exploite directement les thèmes
+préférés de Nolan. Le personnage de Leonard Shelby est une représentation
+absolue du sollipsisme : un homme sans mémoire ne peut rien croire de plus que
+ses propres acquis intériorisés. Le monde extérieur est invariablement hostile
+et ne peut jamais être digne de confiance.
+
+Memento, à son échelle, a participé à l'affirmation dans le cinéma américain du
+thriller existentiel, dans lequel le personnage lutte avant tout pour trouver
+sa place et son rôle dans le monde dans lequel il évolue. En ceci il se
+rapproche de films qui ont marqué le début des années 2000, comme Fight Club.
+
+Pour exprimer la sentation de doute permanent de son personnage à l'écran,
+Christopher Nolan a monté le film a l'envers, l'histoire est découpée en scènes
+présentées dans l'ordre anti-chronologique, entre-coupés de passages montés
+à l'endroit, que le spectateur a du mal à dater. Le spectateur est donc placé
+dans la même situation que le personnage principal : il ne sait jamais ce qui
+s'est produit avant. Il est contraint d'assembler les scènes du films sans
+avoir accès à leur contexte. Il doit alors remettre en question le sens de
+chaque situation et la confiance qu'il peut accorder à chaque personnage. Au
+fur et à mesure qu'il pense remettre en ordre l'histoire, il découvre que les
+faits qu'il considère comme établis ne le sont peut-être pas.
+
+Memento est également le film de Nolan le plus pessimiste. Leonard Shelby
+oublie tout, au point de douter de la rationnalité et du sens de ses propres
+actes. Alors que le personnage vit grâce aux notes et photos qu'il prend au
+fur et à mesure, il choisit les pistes, suppositions et théories qu'il veut
+retenir comme étant des faits établis en les enregistrant sous la forme de
+tatouages sur le corps. Son absence de mémoire l'empêche de percevoir le
+changement dans son environement ou sa progression dans sa quête.
+
+Même si le film apporte au spectateur des réponses sur l'histoire du
+personnage, il montre surtout que Leonard Shelby ne peut échapper à son besoin
+de vengeance, et qu'il est définitivement perdu dans son interprétation du
+monde extérieur. Après avoir impliqué le spectateur pour qu'il ressente la
+précarité de la situation de son personnage, Nolan le prive de rédemption, et
+laisse le spectateur frustré.
+
+Cette situation est d'autant plus troublante pour le spectateur qu'il a appris,
+durant tout le film, à douter de chacun des éléments qui lui ont été présentés.
+Il va donc remettre en question le dénouement qui lui est apporté à la fin du
+film, et peut-être même choisir d'adopter la démarche de Shelby : ne rien croire,
+rejeter l'issue du film et recommencer, comme si il n'y avait virtuellement
+rien à retenir des deux heures du film qu'il vient de voir.
+
+# Following
