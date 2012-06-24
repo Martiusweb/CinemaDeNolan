@@ -302,7 +302,7 @@ toujours de nombreuses incohérences et "impossiblités". Pour que le film
 fonctionne, il faut parvenir à capter l'attention du spectateur avant qu'il ne
 questionne trop la fiction.
 
-Ça n'est pas très clair ? Rappelez-vous du film The Sixth Sense, et
+Ça n'est pas très clair ? Rappelez-vous du film *The Sixth Sense*, et
 demandez-vous comment Bruce Willis a pu effectuer des actions quotidiennes
 simples (se préparer à manger, dormir dans le même lit que sa femme, passer un
 coup de téléphone) dans sa condition. C'est tout simplement impossible, le film
@@ -311,7 +311,7 @@ contraire jouer avec ces questions pour maintenir l'illusion (si vous prenez le
 temps de revoir le film, regardez bien ce qu'il se passe lorsqu'il dine au
 restaurant avec sa femme, pour leur anniversaire de mariage).
 
-Pour en revenir à Nolan, pour lui, le film est surtout une construction
+Pour en revenir à Nolan, pour lui, un film est surtout une construction
 cinématographique, et son talent (mais aussi ce qui fait qu'il a de nombreux
 détracteurs) est de parvenir à inhiber notre instinct et notre esprit logique
 pour ne nous faire poser que les questions qu'il souhaite qu'on se pose. Le
@@ -323,3 +323,73 @@ souhaite, Nolan utilise généralement des effets émotionnels "basiques", et
 développer des histoires autour d'enjeux simples et universels. Un film de
 Nolan ne peut donc généralement pas, par exemple, se passer d'une intrigue
 amoureuse.
+
+La mise en abyme réalisée dans *The Prestige* est une démonstration de la
+technique opérée par Christopher Nolan dans la plupart de ses films. Ici, un
+narrateur interpelle directement le spectateur, lui demandant si il pense
+regarder le film attentivement, pour conclure qu'il va certainement se
+restreindre à être attentif au *chiffon rouge* agité pour le distraire, car le
+spectateur *aime* être piégé. Dans *The Prestige*, Nolan prépare, d'une
+certaine manière, son travail sur *Inception*.
+
+# Batman Begins
+
+Batman Begins a certainement déterminé la carrière de Christopher Nolan
+a hollywood. Alors qu'il était plutôt connu pour ses thrillers policiers, il
+a proposé aux studios Warner le reboot de *Batman*. Après les echecs
+commerciaux et critiques des deux épisodes précédents, les studios n'étaient
+pas, à l'origine, convaincus par le projet.
+
+La trajectoire de Nolan s'inscrit dans une nouvelle époque de l'histoire
+d'Hollywood. Chaque période a son genre : les westerns et comédies musicales
+ont été éclipsés par les films d'horreur dans les années 70. Les années 90
+marquent le tournant vers le polar urbain et la science-fiction. Ces mutations
+sont issues du travail des grands réalisateurs Hollywoodiens (Steven Spielberg,
+George Lucas, Stanley Kubrick, Ridley Scott, ...) qui ont apporté un regard
+noble à des genres souvent moqués. On peut prendre l'exemple intéressant de
+l'*Heroic Fantasy*, qui a obtenu ses lettres de noblesse grâce à Peter Jackson
+et sa trilogie *Lord Of The Rings* (11 Academy Awards).
+
+Contrairement à ses trois premiers films, Batman Begins est une production qui
+répond au critères du Blockbuster: c'est une production à grande échelle,
+impliquant de gros moyens techniques et publicitaires pour capter un large
+panel de spectateurs.
+
+Il fallait donc clairement trancher avec l'univers cinématrographique qu'avait
+développé Tim Burton dans *Batman* et *Batman Returns*. Alors que les films de
+super-héros reposent généralement sur la confrontation avec un super-vilain,
+Batman Begins s'intéresse pratiquement exclusivement à la définition de
+l'identité de justicier masqué que Bruce Wayne va créer.
+
+L'intrigue délaisse pratiquement ses personnages secondaires pour se concentrer
+sur un Bruce Wayne dirigé par le désir de vengeance et sur les leviers employés
+par les criminels de Gotham pour prendre le contrôle de la ville. Nolan
+développe l'idée que des personnages seuls (même les "super-vilains") ne sont
+pas aussi dangereux que le sentiment d'insécurité qui se développe dans une
+société qui combat le crime à l'aide de la loi: la société ne se confronte pas
+à ses criminels par la force, mais en luttant contre la peur et la corruption.
+
+Avec ce parti pris, Nolan offre à Batman une nouvelle dimension, mais prive
+également son film d'un vilain mémorable qui aurait certainement appuyé
+l'impact de l'oeuvre par rapport à son apport à ce genre de cinéma : la prise
+de sérieux et la largeur donnée à son personnage principal. Batman Begins
+montre qu'un film de super-héros peut être mature et n'a pas besoin
+d'infantiliser ses spectateurs pour être un succès populaire et commercial.
+
+Batman Begins signe le passage de Nolan au Blockbusters, et montre qu'il est
+capable de se conformer aux nombreuses contraintes imposées pour ces
+productions sans compromettre son approche.
+
+Par exemple, quinze ans plus tôt, Tim Burton a choisi de faire de la vengeance
+de Bruce Wayne le *climax* de son film. Nolan part dans la direction opposée.
+Le meurtre des parents de Bruce Wayne est commis par un *pauvre type* nerveux
+et désespéré, qui n'a vraissemblablement pas un "mauvais fond". Wayne sera
+d'ailleurs privé de sa vengeance, puisque le meurtrier sera lui-même assassiné.
+Batman Begins aborde la question de la vengeance contre la violence.
+
+La thématique de la vengeance opposée au pardon est systématiquement epxloitée
+dans les films de Christopher Nolan. Dans *The Prestige*, Angier n'arrivera pas
+a pardonner Borden, qu'il tient pour responsable de la mort de sa femme. Dans
+*Memento* Leonard Shelby ne vit que pour venger sa femme. Au contraire, Dom
+Cobb dnas *Inception* et Bruce Wayne dans *Batman* vont prendre la décision de
+pardonner, et donc accéder à une sorte de "paix intérieure".
