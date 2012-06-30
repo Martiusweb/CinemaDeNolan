@@ -516,3 +516,16 @@ l'histoire ne sont pas compromis : dans l'oeuvre de Nolan, l'histoire racontée
 occupe la place la plus importante.
 
 # Conclusion
+
+Following, Memento et Insomnia montraient Christopher Nolan comme un
+réalisateur prométeur, capable de manipuler intelligement les codes du cinéma
+Néo-noir sur le fond comme sur la forme. Dans ses films suivants, ces codes
+constituent les bases d'un genre plus large, adaptant les archétypes du
+cinéma occidental. Christopher Nolan a développé son propre genre.
+
+À l'instar de réalisateurs comme Stanley Kubrick, Dany Boyle ou Ridley Scott,
+ses films sont des _films-de_ avant de pouvoir être rangés dans des catégories
+conventionnelles. Le réalisateur devient lui-même une tête d'affiche : les
+studios et distributeurs en jouent dans leurs plans marketing, il suffit de
+voir, dans les bandes annonces du prochain volet de Batman *The Dark Knight
+Rises*, "Christopher Nolan" mis en avant au même titre que "Batman".
