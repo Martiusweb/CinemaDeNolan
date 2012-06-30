@@ -475,3 +475,44 @@ rejeter l'issue du film et recommencer, comme si il n'y avait virtuellement
 rien à retenir des deux heures du film qu'il vient de voir.
 
 # Following
+
+Dans Following, nous suivons Bill, un jeune chômeur qui souhaite devenir
+écrivain. Pour trouver l'inspiration, il se met à suivre des gens, au hasard,
+dans la rue. Naturellement, il se fixe des règles, parce qu'il sait que c'est
+une pratique bizarre, et que ça pourrait être très mal interprété. Pourtant, il
+ne va pas réussir à respecter la plus importante de ses règles : jamais deux
+fois la même personne. Et c'est ce qui va le conduire à rencontrer Cobb, un
+cambrioleur, qui va lui donner beaucoup d'histoires à raconter.
+
+Nous suivons Bill de très près. On l'espionne presque, comme il espionne les
+gens. La narration n'est pas linéaire, l'histoire nous est présentée dans le
+désordre. Christopher Nolan cherche, déjà dans Following à placer le spectateur
+dans la situation de son personnage principal : nous sommes les voyeurs, et
+nous ressentons la frustration de ne pas tout voir, et donc de ne pas tout
+comprendre.
+
+La narration n'est pas linéaire, mais pas désorganisée pour autant. Pour chaque
+lieu, chaque moment, et chaque situation, Christopher Nolan placera dans le
+champ de sa caméra un repère pour le spectateur. Le repère est toujours bien
+visible mais pas nécessairement évident. Cette astuce donne au spectateur le
+sentiment d'être actif pendant qu'il regarde le film : il comprend le
+déroulement du film sans avoir le sentiment d'être guidé.
+
+Dans Following, Christopher Nolan montre deux caractéristiques intéressantes de
+sa démarche à travers ces deux personnages. D'une part, Nolan est un fan, il
+aime rendre hommage à ses sources d'inspiration par des clins d'oeil:
+l'appartement de Bill est plein de références à Kubrick. Cobb, montre que Nolan
+est capable de développer des artifices malins pour piéger le spectateur, même
+vigilent, sur qui il a toujours une longueur d'avance.
+
+Techniquement, le film a été tourné avec un budget particulièrement réduit (de
+l'ordre de 5000€). Un tel budget implique de nombreuses contraintes techniques
+et des moyens très faibles. Le script du film a été ajusté pour permettre sa
+réalisation. Par exemple, la _voix-off_ est beaucoup utilisée pour s'assurer
+que les éléments essentiels du films soient parfaitement audibles, ce qui
+n'aurait pas pu être garanti avec une prise de son pendant le tournage. Malgré
+les contraintes de production, les points clés et la tension développée par
+l'histoire ne sont pas compromis : dans l'oeuvre de Nolan, l'histoire racontée
+occupe la place la plus importante.
+
+# Conclusion
