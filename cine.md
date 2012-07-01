@@ -21,7 +21,7 @@ histoire riche peuvent être plus simple à suivre que des personnages dont
 on ne comprendra pas vraiment les mécanismes qui les gouvernent.
 
 L'intérêt du spectateur pour le scénario (et donc pour le film) dépend de la
-manière dont ses trois aspects s'organisent. Si ils sont trop simples, le
+manière dont ses trois aspects s'organisent. S'ils sont trop simples, le
 spectateur s'ennuie car il n'est pas stimulé. Son attention diminuera également
 quand ils sont trop difficiles à suivre. La bonne recette consiste généralement
 à développer la complexité de deux ingrédients autour du troisième qui reste
@@ -71,11 +71,11 @@ Shelby (Memento) vengera sa femme assassinée.
 
 Le personnage principal de Christopher Nolan est souvent un homme "à la
 dérive", confronté à un monde dans lequel il n'a aucune certitude au
-point que l'a réalité devient un concept flou, voire abstrait, dont les
+point que la réalité devient un concept flou, voire abstrait, dont les
 contours évoluent en permanence. Il reste néanmoins invariablement intègre et
 ne cesse de poursuivre son objectif. Le personnage absorbe et internalise le
-monde dans lequel il évolue. Pour lui, la stabilité et l'équilibre n'est
-qu'intérieur.
+monde dans lequel il évolue. Pour lui, la stabilité et l'équilibre ne sont
+qu'intérieurs.
 
 En synthèse, il choisit ce qu'il est et ce en quoi il croit au point de devenir
 une expression incarnée du concept de solipsisme. En cela, les films de
@@ -108,10 +108,10 @@ ailleurs, c'est le premier film qu'il réalise sans se baser sur un travail
 existant (œuvre, scénario co-écrit avec son frère, etc).
 
 Inception lie efficacement les thématiques récurrentes du cinéma de Nolan autour
-du personnage de Dom Cobb (Leonardo DiCaprio) est la synthèse de l'ensemble
+du personnage de Dom Cobb (Leonardo DiCaprio), qui est la synthèse de l'ensemble
 des personnages principaux de ses précédents films : à la limite d'un
 décrochage émotionnel et psychologique, il s'accroche définitivement à l'idée
-que ce en qui il croit est toujours vrai et possible dans le monde dans lequel
+que ce en quoi il croit est toujours vrai et possible dans le monde dans lequel
 il évolue.
 
 À l'origine pensé comme un thriller plus proche du film d'épouvante, Inception
@@ -127,14 +127,14 @@ imposées par le genre :
     la description et l'argumentation) qui occupe souvent la place principale
     du *Heist*, l'exposition est toute la phase de préparation et d'explication
     du mode opératoire du braquage. Dans cette phase, l'équipe découvre
-    progressivement les étapes à parcourir jusqu'à attendre le but, puis
+    progressivement les étapes à parcourir jusqu'à atteindre le but, puis
     comment s'échapper du lieu du braquage. L'essentiel du déroulement
     d'Inception est une exposition : le spectateur découvre à la fois les
     règles qui régissent la *science des rêves* dans lequel évoluent les
     protagonistes, tandis que ceux-ci découvrent le déroulement de l'opération
     alors même qu'ils la réalisent. Cette exposition permanente est possible
     notamment parce que le film présente alternativement plusieurs moments
-    supposés se dérouler simultanément (et s'influençant mutuellement).
+    supposés se dérouler simultanément (et s'influencer mutuellement).
 
 Lors de sa sortie en 2010, Inception a marqué par sa fin ouverte. Si
 généralement le spectateur restera intrigué par le sort du personnage principal
@@ -224,7 +224,7 @@ Les productions Hollywoodiennes et les séries télévisées ont traditionnellem
 des liens avec l'actualité politique des États-Unis. Les scénaristes intègrent
 ou s'inspirent souvent des grands faits d'actualité et des débats de société en
 cours. Les institutions s'intéressent également aux productions de
-divertissement. Le département de la défense, par exemple, offre soutient
+divertissement. Le département de la défense, par exemple, offre soutien
 logistique et technique aux films qui véhiculent une image positive de l'armée.
 
 *The Dark Knight* développe une intrigue reflétant la situation des États-Unis
@@ -248,7 +248,7 @@ terroriste combattu par des méthodes totalement discutables.
 Dans le film, Batman va tabasser (torturer) le Joker et obtenir des
 informations inexactes qui mèneront à une issue tragique, tandis que la fin de
 cet épisode délivre un message ambigu : Batman va vaincre le Joker, mais aura
-du user de violence et bafouer les libertés personnelles des citoyens de
+dû user de violence et bafouer les libertés personnelles des citoyens de
 Gotham qu'il espionnera. Finalement, le seul moyen pour Batman de gagner cette
 bataille contre le crime et la corruption sera de se bannir de Gotham.
 
@@ -262,7 +262,7 @@ ambivalents. La technique est finalement assez simple : le scénario introduit
 deux symboles représentant des principes moraux opposés, et va les réconcilier,
 au moins temporairement pour qu'ils puissent vaincre leur ennemi commun.
 
-L'un de mes exemples préféré est certainement *The Bourne Ultimatum*, cette
+L'un de mes exemples préférés est certainement *The Bourne Ultimatum*, cette
 production des studios Universal érige en héros un ancien tueur à gages de la
 CIA, auteur de plusieurs assassinats politiques qui va s'associer à la presse
 pour révéler la corruption et les dérives qui existent au sein de l'agence
