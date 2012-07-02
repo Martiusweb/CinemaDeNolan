@@ -276,7 +276,7 @@ parler de lui...
 # The Prestige
 
 Même si *The Prestige* est l'adaptation d'un roman de Christopher Priest
-(éponyme), l'intrigue du film est ingénieusement mise en abime avec le travail
+(éponyme), l'intrigue du film est ingénieusement mise en abyme avec le travail
 de réalisateur de Nolan : la volonté de créer une œuvre originale et riche
 tout en divertissant ses spectateurs.
 
@@ -306,7 +306,7 @@ questionne trop la fiction.
 demandez-vous comment Bruce Willis a pu effectuer des actions quotidiennes
 simples (se préparer à manger, dormir dans le même lit que sa femme, passer un
 coup de téléphone) dans sa condition. C'est tout simplement impossible, le film
-ne cherche même pas à apporter des réponses à toutes ces questions : il va au
+ne cherche même pas à apporter de réponse à toutes ces questions : il va au
 contraire jouer avec ces questions pour maintenir l'illusion (si vous prenez le
 temps de revoir le film, regardez bien ce qu'il se passe lorsqu'il dine au
 restaurant avec sa femme, pour leur anniversaire de mariage).
@@ -320,11 +320,11 @@ piégée par le réalisateur.
 
 Pour parvenir à maintenir le spectateur occupé à se poser les questions qu'il
 souhaite, Nolan utilise généralement des effets émotionnels "basiques", et
-développer des histoires autour d'enjeux simples et universels. Un film de
+développe des histoires autour d'enjeux simples et universels. Un film de
 Nolan ne peut donc généralement pas, par exemple, se passer d'une intrigue
 amoureuse.
 
-La mise en abime réalisée dans *The Prestige* est une démonstration de la
+La mise en abyme réalisée dans *The Prestige* est une démonstration de la
 technique opérée par Christopher Nolan dans la plupart de ses films. Ici, un
 narrateur interpelle directement le spectateur, lui demandant si il pense
 regarder le film attentivement, pour conclure qu'il va certainement se
@@ -537,7 +537,7 @@ Rises*, "Christopher Nolan" mis en avant au même titre que "Batman".
 Il a développé une sorte de *méta-genre*, caractérisé par un discours double.
 D'un côté, il revisite le cinéma en réalisant des adaptations des genres
 cinématographiques auxquelles il attache une dimension néo-noire, d'un autre
-côté, il met en abime l'histoire qu'il met en scène avec son propre travail de
+côté, il met en abyme l'histoire qu'il met en scène avec son propre travail de
 réalisateur et son affection pour le cinéma.
 
 Sa démarche est d'autant plus intéressante qu'il n'est pas à proprement parler
