@@ -9,19 +9,19 @@ id: cine
 
 On peut considérer le scénario comme l'ensemble regroupant les personnages, le
 script (ce qu'il se passe) et la narration (comment est raconté ce qu'il ce
-passe). Individuellement, ces trois aspects peuvent être facile à appréhender
+passe). Individuellement, ces trois aspects peuvent être faciles à appréhender
 par le spectateur ou non.
 
-Les personnages peuvent être difficile à cerner, le script très dense et la
+Les personnages peuvent être difficiles à cerner, le script très dense et la
 narration peut ne pas être linéaire, comme par exemple lorsque l'on raconte la
 même histoire selon plusieurs points de vue. C'est assez difficile de
 caractériser la complexité ressentie par le spectateur, et simple ne veut pas
 dire '''sans relief'''. Par exemple, des personnages construits autour d'une
-histoire riche peuvent être plus simple à suivre que des personnages dont
+histoire riche peuvent être plus simples à suivre que des personnages dont
 on ne comprendra pas vraiment les mécanismes qui les gouvernent.
 
 L'intérêt du spectateur pour le scénario (et donc pour le film) dépend de la
-manière dont ses trois aspects s'organisent. S'ils sont trop simples, le
+manière dont ces trois aspects s'organisent. S'ils sont trop simples, le
 spectateur s'ennuie car il n'est pas stimulé. Son attention diminuera également
 quand ils sont trop difficiles à suivre. La bonne recette consiste généralement
 à développer la complexité de deux ingrédients autour du troisième qui reste
@@ -34,7 +34,7 @@ personnages aux traits principaux construits simplement.
 
 Dans la plupart de ses films, le temps de la narration n'est pas linéaire et le
 script très riche en détails. En cassant le fil temporel de la narration,
-Christopher Nolan créé un labyrinthe scénaristique qui interdit au spectateur de
+Christopher Nolan crée un labyrinthe scénaristique qui interdit au spectateur de
 prendre le temps d'analyser les situations, l'empêche de relever de possibles
 incohérences ou d'anticiper le déroulement de l'histoire et de défaire les
 effets de surprise. La richesse des détails permet souvent d'appuyer l'effet de
@@ -49,7 +49,7 @@ sont très développés tandis que la narration suit un schéma très traditionn
 
 # Les personnages
 
-Depuis les années 2000, les personnages principaux du cinéma Hollywoodien se
+Depuis les années 2000, les personnages principaux du cinéma hollywoodien se
 sont progressivement éloignés de leurs modèles des décennies précédentes.
 Pratiquement construit en réaction aux héros sans faille des grandes sagas
 américaines, l'archétype du personnage principal est aujourd'hui un être
@@ -67,13 +67,13 @@ difficiles qui définiront leur comportement. Ce personnage doit toujours
 avancer pour atteindre son but (quel qu'il soit) coûte que coûte : Batman veut
 rétablir la justice à Gotham après le meurtre de ses parents, Dom Cobb
 (Inception) veut retrouver ses enfants après le suicide de sa femme, Leonard
-Shelby (Memento) vengera sa femme assassinée.
+Shelby (Memento) venger sa femme assassinée.
 
 Le personnage principal de Christopher Nolan est souvent un homme "à la
 dérive", confronté à un monde dans lequel il n'a aucune certitude au
 point que la réalité devient un concept flou, voire abstrait, dont les
 contours évoluent en permanence. Il reste néanmoins invariablement intègre et
-ne cesse de poursuivre son objectif. Le personnage absorbe et internalise le
+ne cesse de poursuivre son objectif. Le personnage absorbe et interiorise le
 monde dans lequel il évolue. Pour lui, la stabilité et l'équilibre ne sont
 qu'intérieurs.
 
@@ -96,16 +96,16 @@ Les principaux traits qui caractérisent les films de Christopher Nolan peuvent
 
   * La narration fracturée
 
-Regardons d'un peu plus prêt sa filmographie. J'ai choisi l'ordre
+Regardons d'un peu plus près sa filmographie. J'ai choisi l'ordre
 anti-chronologique, car certaines idées se sont affirmées progressivement, et
-c'est plus simple de les exposer directement.
+il est plus simple de les exposer directement.
 
 # Inception
 
-C'est intéressant de commencer par Inception, car il regroupe la plupart des
+Il est intéressant de commencer par Inception, car il regroupe la plupart des
 traits caractéristiques des films de Nolan, de manière assez explicite. Par
 ailleurs, c'est le premier film qu'il réalise sans se baser sur un travail
-existant (œuvre, scénario co-écrit avec son frère, etc).
+existant (œuvre litéraire, scénario co-écrit avec son frère, etc).
 
 Inception lie efficacement les thématiques récurrentes du cinéma de Nolan autour
 du personnage de Dom Cobb (Leonardo DiCaprio), qui est la synthèse de l'ensemble
@@ -115,13 +115,13 @@ que ce en quoi il croit est toujours vrai et possible dans le monde dans lequel
 il évolue.
 
 À l'origine pensé comme un thriller plus proche du film d'épouvante, Inception
-est devenu une interprétation originale d'un genre Hollywoodien classique : le
+est devenu une interprétation originale d'un genre hollywoodien classique : le
 *Heist* (le film de Braquage). Il s'articule autour de archétypes scénaristiques
-imposées par le genre :
+imposés par le genre :
 
   * *One last job* : le personnage qui dirige l'équipe des braqueurs se voit
     proposer une dernière mission extrêmement dangereuse, une sorte de coup de
-    poker qui déterminera le reste de ces jours (c'est quitte ou double).
+    poker qui déterminera le reste de ses jours (c'est quitte ou double).
 
   * L'exposition : c'est un mode de discours (au même titre que la narration,
     la description et l'argumentation) qui occupe souvent la place principale
@@ -130,7 +130,7 @@ imposées par le genre :
     progressivement les étapes à parcourir jusqu'à atteindre le but, puis
     comment s'échapper du lieu du braquage. L'essentiel du déroulement
     d'Inception est une exposition : le spectateur découvre à la fois les
-    règles qui régissent la *science des rêves* dans lequel évoluent les
+    règles qui régissent la *science des rêves* dans lequels évoluent les
     protagonistes, tandis que ceux-ci découvrent le déroulement de l'opération
     alors même qu'ils la réalisent. Cette exposition permanente est possible
     notamment parce que le film présente alternativement plusieurs moments
@@ -153,8 +153,8 @@ Alors donc, quel est l'enjeu du film ? Pour bien le comprendre, il faut faire
 un parallèle avec le film *Le prestige*. Christopher Nolan présente, expose et
 fait utiliser à ses personnages des procédés de manipulation complexes,
 impliquant de piéger la victime en utilisant tous les artifices possibles (y
-compris déformer la réalité) tant qu'elle ne s'en rend pas compte et que
-l'illusion fonctionne. Mais ces procédés sont également ceux qu'applique le
+compris la déformation de la réalité) tant qu'elle ne s'en rend pas compte et
+que l'illusion fonctionne. Mais ces procédés sont également ceux qu'applique le
 réalisateur, directement sur le spectateur.
 
 Dans un premier temps, on présente les mécanismes d'illusion (créer le rêve,
@@ -175,19 +175,20 @@ Le spectateur, pris au piège, ne peux pas réaliser immédiatement ce qu'il vie
 de se produire...
 
 Après le plan final, l'écran vire aussitôt au noir, c'est *la décharge* (la
-douche froide pour le spectateur). Puis apparait directement le mot
-"Inception", tandis qu'on entend le thème principal du film (une version
+douche froide pour le spectateur). Puis apparaît directement le mot
+"Inception", tandis que l'on entend le thème principal du film (une version
 ralentie de la chanson de Piaf utilisée par les personnages). Le spectateur
-quitte la salle. Maintenant que le film est terminé, quelque chose à changé.
-Confortablement installé dans son fauteuil pendant deux heures et demi,
-l'équipe du film a implanté une simple idée dans son esprit : le spectateur
-cherche maintenant la faille, celle qui lui permettra de connaître *la fin*,
-convaincu qu'il y a une explication définitive à l'épopée des personnages.
+quitte la salle. Maintenant que le film est terminé, quelque chose a changé.
+Alors qu'il était confortablement installé dans son fauteuil pendant deux
+heures et demi, l'équipe du film a implanté une simple idée dans son
+esprit : le spectateur cherche maintenant la faille, celle qui lui permettra de
+connaître *la fin*, convaincu qu'il y a une explication définitive à l'épopée
+des personnages.
 
 Le spectateur concentré sur la fiction et le devenir des personnages ne réalise
-pas qu'il a subi les mêmes étapes que la victime supposée de l'histoire, et
-qu'il est en fait le principal sujet de l'expérience Inception, pendant tout le
-film.
+pas qu'il a subi, étape par étape, le même que la victime supposée de
+l'histoire, et qu'il est en fait le principal sujet de l'expérience Inception,
+pendant tout le film.
 
 # The Dark Knight
 
@@ -198,7 +199,7 @@ franchise Batman par les studios Warner après l'échec critique de *Batman
 Le succès critique et financier de Batman Begins permet à Christopher Nolan de
 développer et réaliser une production à plus grande échelle que ses précédents
 films. D'une manière générale, Nolan dispose de plus de moyens (l'un des
-plus gros budgets alloués à un film jusqu'à présent), de la confiance des
+plus gros budgets alloué à un film jusqu'à présent), de la confiance des
 studios Warner et DC Comics (propriétaires et exploitants de la licence Batman)
 et d'une plus grande liberté d'adaptation. On remarque par exemple qu'il est le
 premier film de la franchise *Batman* qui ne comporte pas le nom du super-héros
@@ -220,7 +221,7 @@ Un trait remarquable de *The Dark Knight* est la construction du scénario autou
 d'un discours politique, rarement présent dans les films de super-héros…
 à l'exception bien sûr du pratiquement inévitable patriotisme.
 
-Les productions Hollywoodiennes et les séries télévisées ont traditionnellement
+Les productions hollywoodiennes et les séries télévisées ont traditionnellement
 des liens avec l'actualité politique des États-Unis. Les scénaristes intègrent
 ou s'inspirent souvent des grands faits d'actualité et des débats de société en
 cours. Les institutions s'intéressent également aux productions de
@@ -239,7 +240,8 @@ Le film va avoir un impact intéressant sur le débat politique aux États-Unis 
 les personnages et situations développées vont servir (et servent toujours)
 de supports, d'exemples ou de métaphores idéologiques dans les débats. On se
 souvient notamment de la célèbre photo de Barack Obama grimé en Jocker :
-http://resources1.news.com.au/images/2009/08/05/1225758/360881-obama-the-joker.jpg
+
+![Obama grimmé en Joker](http://resources1.news.com.au/images/2009/08/05/1225758/360881-obama-the-joker.jpg)
 
 Le Joker est la figure du concept flou du "crime" que combat Batman : un
 monstre terrible, sans véritable visage, qui rappelle franchement l'ennemi
@@ -249,7 +251,7 @@ Dans le film, Batman va tabasser (torturer) le Joker et obtenir des
 informations inexactes qui mèneront à une issue tragique, tandis que la fin de
 cet épisode délivre un message ambigu : Batman va vaincre le Joker, mais aura
 dû user de violence et bafouer les libertés personnelles des citoyens de
-Gotham qu'il espionnera. Finalement, le seul moyen pour Batman de gagner cette
+Gotham qu'il a espionné. Finalement, le seul moyen pour Batman de gagner cette
 bataille contre le crime et la corruption sera de se bannir de Gotham.
 
 Cette ambigüité est stratégique : une production de ce type, dont les enjeux
@@ -262,9 +264,9 @@ ambivalents. La technique est finalement assez simple : le scénario introduit
 deux symboles représentant des principes moraux opposés, et va les réconcilier,
 au moins temporairement pour qu'ils puissent vaincre leur ennemi commun.
 
-L'un de mes exemples préférés est certainement *The Bourne Ultimatum*, cette
+L'un de mes exemples préférés est certainement *The Bourne Ultimatum* : cette
 production des studios Universal érige en héros un ancien tueur à gages de la
-CIA, auteur de plusieurs assassinats politiques qui va s'associer à la presse
+CIA, auteur de plusieurs assassinats politiques, qui va s'associer à la presse
 pour révéler la corruption et les dérives qui existent au sein de l'agence
 gouvernementale.
 
@@ -283,24 +285,24 @@ tout en divertissant ses spectateurs.
 Le cinéma fonctionne comme la magie (ou plus précisément, l'illusionnisme) : le
 réalisateur, comme le prestidigitateur, cherche à obtenir l'adhésion du public
 à une illusion de la réalité et finalement, à déclencher des réactions émotives
-à son action.
+lorsqu'il la met en scène.
 
 *The Prestige* consiste en un grand tour de magie : il montre les coulisses des
-spectacles de magie, comment une illusion est fabriquée, tandis qu'une autre
-est opérée sous nos yeux. Au travers de ses personnages, Nolan montre comment
-il conçoit et construit ses films : tous les éléments qui constituent
-l'illusion doivent rester valides, Nolan passe beaucoup de temps à expliquer,
-contextualiser et surtout à lier tous les composants de l'histoire de manière
-à ce que le spectateur puisse remonter le fil de l'intrigue à chaque twist
-(retournement inattendu). Pour que *ça* fonctionne (le tour de magie, le film),
-le spectateur va devoir faire l'effort de tout remettre dans l'ordre, pour
-apprécier la surprise du tour (le prestige). Si le spectateur quitte les rails
-de la narration, il va avoir l'occasion de se poser des questions qui risquent
-d'anéantir le film : Quand dort Batman ? Comment un homme sans mémoire peut-il
-simplement vivre ? Les situations inédites présentées dans les films comportent
-toujours de nombreuses incohérences et *impossibilités*. Pour que le film
-fonctionne, il faut parvenir à capter l'attention du spectateur avant qu'il ne
-questionne trop la fiction.
+spectacles de prestidigitation, comment une illusion est fabriquée, tandis
+qu'une autre est opérée sous nos yeux. Au travers de ses personnages, Nolan
+montre comment il conçoit et construit ses films : tous les éléments qui
+constituent l'illusion doivent rester valides, Nolan passe beaucoup de temps
+à expliquer, contextualiser et surtout à lier tous les composants de l'histoire
+de manière à ce que le spectateur puisse remonter le fil de l'intrigue à chaque
+twist (retournement inattendu). Pour que *ça* fonctionne (le tour de magie, le
+film), le spectateur va devoir faire l'effort de tout remettre dans l'ordre,
+pour apprécier la surprise du tour (le prestige). Si le spectateur quitte les
+rails de la narration, il va avoir l'occasion de se poser des questions qui
+risquent d'anéantir le film : Quand dort Batman ? Comment un homme sans mémoire
+peut-il simplement vivre ? Les situations inédites présentées dans les films
+comportent toujours de nombreuses incohérences et *impossibilités*. Pour que le
+film fonctionne, il faut parvenir à capter l'attention du spectateur avant
+qu'il ne questionne trop la fiction.
 
 Ça n'est pas très clair ? Rappelez-vous du film *The Sixth Sense*, et
 demandez-vous comment Bruce Willis a pu effectuer des actions quotidiennes
@@ -314,9 +316,9 @@ restaurant avec sa femme, pour leur anniversaire de mariage).
 Pour en revenir à Nolan, pour lui, un film est surtout une construction
 cinématographique, et son talent (mais aussi ce qui fait qu'il a de nombreux
 détracteurs) est de parvenir à inhiber notre instinct et notre esprit logique
-pour ne nous faire poser que les questions qu'il souhaite qu'on se pose. Le
-film n'est pas un reflet de la réalité, mais bien une représentation biaisée,
-piégée par le réalisateur.
+pour ne nous faire poser que les questions qu'il souhaite que nous nous
+posions. Le film n'est pas un reflet de la réalité, mais bien une
+représentation biaisée, piégée par le réalisateur.
 
 Pour parvenir à maintenir le spectateur occupé à se poser les questions qu'il
 souhaite, Nolan utilise généralement des effets émotionnels "basiques", et
@@ -335,7 +337,7 @@ certaine manière, son travail sur *Inception*.
 # Batman Begins
 
 Batman Begins a certainement déterminé la carrière de Christopher Nolan
-a Hollywood. Alors qu'il était plutôt connu pour ses thrillers policiers, il
+à Hollywood. Alors qu'il était plutôt connu pour ses thrillers policiers, il
 a proposé aux studios Warner le reboot de *Batman*. Après les échecs
 commerciaux et critiques des deux épisodes précédents, les studios n'étaient
 pas, à l'origine, convaincus par le projet.
@@ -358,8 +360,8 @@ avant *The Dark Knight* contribuer à montrer que ce cinéma de divertissement
 peut également être intelligent, développer des thématiques riches et
 s'adresser à un public mature.
 
-Contrairement aux trois trois premiers films de Nolan, Batman Begins est une
-production qui répond au critères du Blockbuster: c'est une production à grande
+Contrairement aux trois premiers films de Nolan, Batman Begins est une
+production qui répond aux critères du Blockbuster: c'est une production à grande
 échelle, impliquant de gros moyens techniques et publicitaires pour capter un
 large panel de spectateurs.
 
@@ -381,12 +383,12 @@ société qui combat le crime à l'aide de la loi : la société ne se confronte
 Avec ce parti pris, Nolan offre à Batman une nouvelle dimension, mais prive
 également son film d'un vilain mémorable qui aurait certainement appuyé
 l'impact de l'œuvre par rapport à son apport à ce genre de cinéma : la prise
-de sérieux et la largeur donnée à son personnage principal. Batman Begins
+de sérieux et la largeur données à son personnage principal. Batman Begins
 montre qu'un film de super-héros peut être mature et n'a pas besoin
 d'infantiliser ses spectateurs pour être un succès populaire et commercial.
 
 Batman Begins signe le passage de Nolan au Blockbusters, et montre qu'il est
-capable de se conformer aux nombreuses contraintes imposées pour ces
+capable de se conformer aux nombreuses contraintes imposées par ces
 productions sans compromettre son approche.
 
 Par exemple, quinze ans plus tôt, Tim Burton a choisi de faire de la vengeance
@@ -398,7 +400,7 @@ d'ailleurs privé de sa vengeance, puisque le meurtrier sera lui-même assassin�
 *Batman Begins* aborde la question de la vengeance contre la violence. La
 thématique de la vengeance opposée au pardon est systématiquement exploitée
 dans les films de Christopher Nolan. Dans *The Prestige*, Angier n'arrivera pas
-a pardonner Borden, qu'il tient pour responsable de la mort de sa femme. Dans
+à pardonner Borden, qu'il tient pour responsable de la mort de sa femme. Dans
 *Memento* Leonard Shelby ne vit que pour venger sa femme. Au contraire, Dom
 Cobb dans *Inception* et Bruce Wayne dans *Batman* vont prendre la décision de
 pardonner, et donc accéder à une sorte de *paix intérieure*.
@@ -442,11 +444,11 @@ et ne peut jamais être digne de confiance.
 *Memento*, à son échelle, a participé à l'affirmation dans le cinéma américain du
 thriller existentiel, dans lequel le personnage lutte avant tout pour trouver
 sa place et son rôle dans le monde dans lequel il évolue. En ceci il se
-rapproche de films qui ont marqué le début des années 2000, comme Fight Club.
+rapproche de films qui ont marqué le début des années 2000, comme *Fight Club*.
 
 Pour exprimer la sensation de doute permanent de son personnage à l'écran,
-Christopher Nolan a monté le film a l'envers, l'histoire est découpée en scènes
-présentées dans l'ordre anti-chronologique, entrecoupés de passages montés
+Christopher Nolan a monté le film à l'envers, l'histoire est découpée en scènes
+présentées dans l'ordre anti-chronologique, entrecoupées de passages montés
 à l'endroit, que le spectateur a du mal à dater. Le spectateur est donc placé
 dans la même situation que le personnage principal : il ne sait jamais ce qui
 s'est produit avant. Il est contraint d'assembler les scènes du films sans
@@ -503,27 +505,27 @@ déroulement du film sans avoir le sentiment d'être guidé.
 
 Dans Following, Christopher Nolan montre deux caractéristiques intéressantes de
 sa démarche à travers ces deux personnages. D'une part, Nolan est un fan, il
-aime rendre hommage à ses sources d'inspiration par des clins d'œil
-: l'appartement de Bill est plein de références à Kubrick. D'autre part, Cobb
-montre que Nolan est capable de développer des artifices malins pour piéger le
-spectateur, même vigilant, sur qui il a toujours une longueur d'avance.
+aime rendre hommage à ses sources d'inspiration par des clins d'œil : l'appartement
+de Bill est plein de références à Kubrick. D'autre part, Cobb montre que Nolan
+est capable de développer des artifices malins pour piéger le spectateur, même
+vigilant, sur qui il a toujours une longueur d'avance.
 
 Techniquement, le film a été tourné avec un budget particulièrement réduit (de
-l'ordre de 5000€). Un tel budget implique de nombreuses contraintes techniques
+l'ordre de 5000 €). Un tel budget implique de nombreuses contraintes techniques
 et des moyens très faibles. Le script du film a été ajusté pour permettre sa
 réalisation. Par exemple, la _voix off_ est beaucoup utilisée pour s'assurer
 que les éléments essentiels du films soient parfaitement audibles, ce qui
 n'aurait pas pu être garanti avec une prise de son pendant le tournage. Malgré
 les contraintes de production, les points clés et la tension développée par
 l'histoire ne sont pas compromis : dans l'œuvre de Nolan, l'histoire racontée
-occupe la place la plus importante, même un budget faible ou les contraintes
-commerciales d'un Blockbuster.
+occupe la place la plus importante, même si le film subit  un budget faible ou
+les contraintes commerciales d'un Blockbuster.
 
 # Conclusion
 
 Following, Memento et Insomnia montraient Christopher Nolan comme un
 réalisateur prometteur, capable de manipuler intelligemment les codes du cinéma
-Néo-noir sur le fond comme sur la forme. Dans ses films suivants, ces codes
+néo-noir sur le fond comme sur la forme. Dans ses films suivants, ces codes
 constituent les bases d'un genre plus large, adaptant les archétypes du
 cinéma occidental. Christopher Nolan a développé son propre genre.
 
@@ -531,7 +533,7 @@ cinéma occidental. Christopher Nolan a développé son propre genre.
 ses films sont des _films de_ avant de pouvoir être rangés dans des catégories
 conventionnelles. Le réalisateur devient lui-même une tête d'affiche : les
 studios et distributeurs en jouent dans leurs plans marketing, il suffit de
-voir, dans les bandes annonces du prochain volet de Batman *The Dark Knight
+voir, dans les bandes-annonces du prochain volet de Batman *The Dark Knight
 Rises*, "Christopher Nolan" mis en avant au même titre que "Batman".
 
 Il a développé une sorte de *méta-genre*, caractérisé par un discours double.
